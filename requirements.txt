@@ -2,7 +2,3 @@ streamlit
 pyttsx3
 schedule
 pyaudio
-
-
-
-in terminal python -m run main.py
